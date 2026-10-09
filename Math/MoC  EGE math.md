@@ -1,0 +1,23 @@
+1## Map of Content for EGE math
+
+- Math_num_1 [[MoC планеметрия]]
+- Math_num_2 [[Векторы и координаты]]
+- Math_num_3 [[Многогранники и тела вращения]]
+- Math_num_4
+- Math_num_5
+- Math_num_6
+- Math_num_7 [[Уравнения и Преобразования]]
+- Math_num_8 [[Уравнения и Преобразования]]
+- Math_num_9 [[Производная и первообразная]]
+- Math_num_10
+- Math_num_11
+- Math_num_12
+- Math_num_13 [[Экономическая задача]]
+--- 
+- Math_num_14 [[Триганометрия]]
+- Math_num_15
+- Math_num_16
+- Math_num_17
+- Math_num_18
+- Math_num_19
+- Math_num_20
