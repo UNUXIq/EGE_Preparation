@@ -1,7 +1,5 @@
 ---
 type: moc
-subject: math-ege
-exam_task: 1
 tags:
   - егэ/профиль
   - математика/планиметрия
