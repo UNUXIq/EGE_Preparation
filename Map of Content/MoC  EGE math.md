@@ -3,16 +3,16 @@
 - Math_num_1 | [[MoC Планиметрия]]
 - Math_num_2 | [[Векторы на плоскости]]
 - Math_num_3 | [[MoC Стереометрия]]
-- Math_num_4
-- Math_num_5
-- Math_num_6
-- Math_num_7 
-- Math_num_8 
-- Math_num_9 
-- Math_num_10
-- Math_num_11
-- Math_num_12
-- Math_num_13 
+- Math_num_4 | [[01.Простая вероятность]]
+- Math_num_5 | [[02.Сложная вероятность]]
+- Math_num_6 | [[03.Случайные величины и распределения]]
+- Math_num_7 | [[Степени, корни, логирифмы и уравнения]]
+- Math_num_8 | [[Триганометрия]]
+- Math_num_9 | 
+- Math_num_10 |
+- Math_num_11 |
+- Math_num_12 |
+- Math_num_13 |
 --- 
 - Math_num_14 
 - Math_num_15
